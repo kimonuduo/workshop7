@@ -81,4 +81,4 @@ function mongoExample(db) {
       console.log(doc);
     });
   });
-}MongoClient.connect
+}
